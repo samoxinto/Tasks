@@ -1,0 +1,6 @@
+D:\самохин\Tasks\Tasks\bin\Debug\Tasks.exe
+D:\самохин\Tasks\Tasks\bin\Debug\Tasks.pdb
+D:\самохин\Tasks\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+D:\самохин\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+D:\самохин\Tasks\Tasks\obj\Debug\Tasks.exe
+D:\самохин\Tasks\Tasks\obj\Debug\Tasks.pdb
